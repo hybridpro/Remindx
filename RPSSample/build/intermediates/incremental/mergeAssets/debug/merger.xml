@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/test/AndroidStudioProjects/Remindx/build/intermediates/exploded-aar/Remindx/facebook/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/test/AndroidStudioProjects/Remindx/RPSSample/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/test/AndroidStudioProjects/Remindx/RPSSample/src/debug/assets" />
+    </dataSet>
+
+</merger>
